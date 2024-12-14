@@ -1,0 +1,11 @@
+
+.profile-img {
+    height: 300px;
+    border-radius: 50%;
+}
+
+.feature-icon {
+    height: 3rem;
+    width: 3rem;
+    border-radius: 0.75rem;
+}
